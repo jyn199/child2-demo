@@ -10,8 +10,8 @@ import org.springframework.web.servlet.ModelAndView;
 
 @Controller
 @Scope(value="prototype")
-@RequestMapping("/")
-public class DemoController {
+@RequestMapping("/demo2")
+public class Demo2Controller {
 	
 	@RequestMapping(value="")
 	public ModelAndView index(HttpServletRequest request, HttpServletResponse response){

@@ -9,6 +9,6 @@ String basePath = request.getScheme()+"://"+request.getServerName()+":"+request.
 	<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
 </head>
 <body>
-<h2>DEMO!</h2>
+<h2>DEMO2!</h2>
 </body>
 </html>

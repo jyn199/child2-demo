@@ -15,7 +15,7 @@ public class Demo2Controller {
 	
 	@RequestMapping(value="")
 	public ModelAndView index(HttpServletRequest request, HttpServletResponse response){
-		ModelAndView mav = new ModelAndView("/index");
+		ModelAndView mav = new ModelAndView("/index2");
 		return mav;
 	}
 }

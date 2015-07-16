@@ -38,6 +38,7 @@
 			<groupId>com.jyn.child1-demo</groupId>
 			<artifactId>child1-demo</artifactId>
 			<version>0.0.1-SNAPSHOT</version>
+			<type>war</type>
 		</dependency>
 	</dependencies>
 	<build>
